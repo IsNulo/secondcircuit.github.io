@@ -1,23 +1,8 @@
 [
   {
-    "name": "Dell Latitude 5410",
-    "specs": "i5-10th gen · 16GB RAM · 256GB SSD · 14\"",
-    "price": "£220",
-    "status": "available",
-    "note": "Wiped, Windows 11, battery 91% health"
-  },
-  {
-    "name": "Lenovo ThinkPad T480",
-    "specs": "i5-8th gen · 8GB RAM · 256GB SSD · 14\"",
-    "price": "£175",
-    "status": "available",
-    "note": "Wiped, Windows 11, new battery fitted"
-  },
-  {
-    "name": "HP EliteBook 840 G6",
-    "specs": "i7-8th gen · 16GB RAM · 512GB SSD · 14\"",
-    "price": "£280",
-    "status": "available",
-    "note": "Wiped, Windows 11, battery 96% health"
+    "name": "Coming Soon...",
+    "specs": ",
+    "price": ",
+    "status": "",
+    "note": ""
   }
-]
